@@ -1,9 +1,9 @@
 {
-  "versionCode": 80,
-  "versionName": "17.62",
-  "changelog": "In-app update system: app ab khud naya version check karegi (Settings mein CHECK FOR APP UPDATE button bhi). WiFi par din mein ek dafa auto-check.",
+  "versionCode": 81,
+  "versionName": "17.63",
+  "changelog": "Live TV buffer fix: stream ab rukegi nahi (15s buffer). Kids cartoon channels + Animals & Nature category (Animal Planet Hindi).",
   "apks": {
-    "arm64-v8a": "https://github.com/Awan102g/wl-4k-downloader/releases/download/v17.62/video-downloader-app-v17-62.apk",
-    "armeabi-v7a": "https://github.com/Awan102g/wl-4k-downloader/releases/download/v17.62/video-downloader-app-v17-62-32bit.apk"
+    "arm64-v8a": "https://github.com/Awan102g/wl-4k-downloader/releases/download/v17.63/video-downloader-app-v17-63.apk",
+    "armeabi-v7a": "https://github.com/Awan102g/wl-4k-downloader/releases/download/v17.63/video-downloader-app-v17-63-32bit.apk"
   }
 }

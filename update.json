@@ -1,1 +1,10 @@
-ewogICJ2ZXJzaW9uQ29kZSI6IDc5LAogICJ2ZXJzaW9uTmFtZSI6ICIxNy42MSIsCiAgImNoYW5nZWxvZyI6ICJBcHAgaWNvbiBmaXg6IGFwcHJvdmVkIFdMIDRLIGljb24gKGJsYWNrICsgNEsgYmFkZ2UpIGFiIGxhdW5jaGVyIG1laW4gc2FoaSBsYWcgcmFoYSBoYWkuIiwKICAiYXBrcyI6IHsKICAgICJhcm02NC12OGEiOiAiaHR0cHM6Ly9naXRodWIuY29tL0F3YW4xMDJnL3dsLTRrLWRvd25sb2FkZXIvcmF3L21haW4vYXBrcy92MTcuNjEvYXBwLWFybTY0LXY4YS1yZWxlYXNlLmFwayIsCiAgICAiYXJtZWFiaS12N2EiOiAiaHR0cHM6Ly9naXRodWIuY29tL0F3YW4xMDJnL3dsLTRrLWRvd25sb2FkZXIvcmF3L21haW4vYXBrcy92MTcuNjEvYXBwLWFybWVhYmktdjdhLXJlbGVhc2UuYXBrIiwKICAgICJ4ODZfNjQiOiAiaHR0cHM6Ly9naXRodWIuY29tL0F3YW4xMDJnL3dsLTRrLWRvd25sb2FkZXIvcmF3L21haW4vYXBrcy92MTcuNjEvYXBwLXg4Nl82NC1yZWxlYXNlLmFwayIKICB9Cn0=
+{
+  "versionCode": 79,
+  "versionName": "17.61",
+  "changelog": "App icon fix: approved WL 4K icon ab launcher mein sahi lag raha hai.",
+  "apks": {
+    "arm64-v8a": "https://github.com/Awan102g/wl-4k-downloader/raw/main/apks/v17.61/app-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/Awan102g/wl-4k-downloader/raw/main/apks/v17.61/app-armeabi-v7a-release.apk",
+    "x86_64": "https://github.com/Awan102g/wl-4k-downloader/raw/main/apks/v17.61/app-x86_64-release.apk"
+  }
+}

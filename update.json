@@ -3,8 +3,7 @@
   "versionName": "17.61",
   "changelog": "App icon fix: approved WL 4K icon ab launcher mein sahi lag raha hai.",
   "apks": {
-    "arm64-v8a": "https://github.com/Awan102g/wl-4k-downloader/raw/main/apks/v17.61/app-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/Awan102g/wl-4k-downloader/raw/main/apks/v17.61/app-armeabi-v7a-release.apk",
-    "x86_64": "https://github.com/Awan102g/wl-4k-downloader/raw/main/apks/v17.61/app-x86_64-release.apk"
+    "arm64-v8a": "https://github.com/Awan102g/wl-4k-downloader/releases/download/v17.61/video-downloader-app-v17-61.apk",
+    "armeabi-v7a": "https://github.com/Awan102g/wl-4k-downloader/releases/download/v17.61/video-downloader-app-v17-61-32bit.apk"
   }
 }

@@ -1,1 +1,5 @@
-IyBXTC00SyBWaWRlbyBEb3dubG9hZGVyCgpPZmZpY2lhbCB1cGRhdGUgaG9zdGluZyBmb3IgV0wgNEsgVmlkZW8gRG93bmxvYWRlciBBbmRyb2lkIGFwcC4KClRoZSBhcHAgY2hlY2tzIGB1cGRhdGUuanNvbmAgZm9yIG5ldyB2ZXJzaW9ucyBhbmQgZG93bmxvYWRzIHRoZSByaWdodCBBUksgZm9yIHlvdXIgcGhvbmUuCg==
+# WL 4K Video Downloader
+
+Official update hosting for the WL 4K Video Downloader Android app.
+
+The app checks `update.json` for new versions and downloads the correct APK for your phone (64-bit or 32-bit).

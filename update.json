@@ -1,9 +1,9 @@
 {
-  "versionCode": 83,
-  "versionName": "17.65",
-  "changelog": "🏏 Cricket ka naya dilkash dashboard — hero live match card, quick stats, series strip. 🎨 Cricket Guru style score screens — pulsing LIVE badge, commentary timeline. 📡 10 leagues ka data. ⚡ Live match par 10-second refresh.",
+  "versionCode": 84,
+  "versionName": "17.66",
+  "changelog": "🔧 Cricket crash fix — v17.65 mein cricket kholne par app band hoti thi, ab fixed. 🏏 Naya dilkash cricket dashboard + Cricket Guru style scores. 📡 10 leagues ka data. ⚡ Live match par 10-second refresh.",
   "apks": {
-    "arm64-v8a": "https://github.com/Awan102g/wl-4k-downloader/releases/download/v17.65/video-downloader-app-v17-65.apk",
-    "armeabi-v7a": "https://github.com/Awan102g/wl-4k-downloader/releases/download/v17.65/video-downloader-app-v17-65-32bit.apk"
+    "arm64-v8a": "https://github.com/Awan102g/wl-4k-downloader/releases/download/v17.66/video-downloader-app-v17-66.apk",
+    "armeabi-v7a": "https://github.com/Awan102g/wl-4k-downloader/releases/download/v17.66/video-downloader-app-v17-66-32bit.apk"
   }
 }

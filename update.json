@@ -1,9 +1,9 @@
 {
-  "versionCode": 82,
-  "versionName": "17.64",
-  "changelog": "🏏 Cricket live scores (Cricket Guru style) — Live/Upcoming/Results, ball-by-ball commentary, CRR/RRR, win prediction. 💬 Status Saver mein alag WhatsApp / Business button.",
+  "versionCode": 83,
+  "versionName": "17.65",
+  "changelog": "🏏 Cricket ka naya dilkash dashboard — hero live match card, quick stats, series strip. 🎨 Cricket Guru style score screens — pulsing LIVE badge, commentary timeline. 📡 10 leagues ka data. ⚡ Live match par 10-second refresh.",
   "apks": {
-    "arm64-v8a": "https://github.com/Awan102g/wl-4k-downloader/releases/download/v17.64/video-downloader-app-v17-64.apk",
-    "armeabi-v7a": "https://github.com/Awan102g/wl-4k-downloader/releases/download/v17.64/video-downloader-app-v17-64-32bit.apk"
+    "arm64-v8a": "https://github.com/Awan102g/wl-4k-downloader/releases/download/v17.65/video-downloader-app-v17-65.apk",
+    "armeabi-v7a": "https://github.com/Awan102g/wl-4k-downloader/releases/download/v17.65/video-downloader-app-v17-65-32bit.apk"
   }
 }

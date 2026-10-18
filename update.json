@@ -1,9 +1,9 @@
 {
-  "versionCode": 84,
-  "versionName": "17.66",
-  "changelog": "🔧 Cricket crash fix — v17.65 mein cricket kholne par app band hoti thi, ab fixed. 🏏 Naya dilkash cricket dashboard + Cricket Guru style scores. 📡 10 leagues ka data. ⚡ Live match par 10-second refresh.",
+  "versionCode": 85,
+  "versionName": "17.67",
+  "changelog": "Cricket crash fix — cricket section ab crash nahi hoga (hardened + auto crash-log). 7 nayi leagues: PSL, Caribbean PL, Bangladesh PL, T20 World Cup, Asia Cup T20, National T20 Cup, Quaid-e-Azam Trophy! Har match mein venue. Live hero par recent-balls strip.",
   "apks": {
-    "arm64-v8a": "https://github.com/Awan102g/wl-4k-downloader/releases/download/v17.66/video-downloader-app-v17-66.apk",
-    "armeabi-v7a": "https://github.com/Awan102g/wl-4k-downloader/releases/download/v17.66/video-downloader-app-v17-66-32bit.apk"
+    "arm64-v8a": "https://github.com/Awan102g/wl-4k-downloader/releases/download/v17.67/video-downloader-app-v17-67.apk",
+    "armeabi-v7a": "https://github.com/Awan102g/wl-4k-downloader/releases/download/v17.67/video-downloader-app-v17-67-32bit.apk"
   }
 }
